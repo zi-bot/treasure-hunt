@@ -1,4 +1,3 @@
-from pickle import FALSE
 from random import randint
 
 board = [
